@@ -1,7 +1,7 @@
 :root {
     /* #009fd4 */
     /* Leather Theme */
-    --bg-color: #011526;
+    /* --bg-color: #011526;
     --main-bg: #012340;
     --color: #01192c;
     --main-text: white;
@@ -9,7 +9,7 @@
     --icon-bg: #A67272;
     --icon: #fff;
     --text-color: #A67272;
-    --decoraton: #fff;
+    --decoraton: #fff; */
     /* Light Theme */
     /* --bg-color: #009fd4;
     --main-bg: #fff;
@@ -22,7 +22,7 @@
     --text-color: #009fd4;
     --decoraton: #fff; */
     /* Dark Theme */
-    /* --bg-color: #000;
+    --bg-color: #000;
     --main-bg: #000;
     --color: #000;
     --main-text: #fff;
@@ -30,7 +30,7 @@
     --icon: #000;
     --icon-bg: #fff;
     --text-color: #fff;
-    --decoraton: yellow; */
+    --decoraton: yellow;
 }
 
 .bg-new-bg {
